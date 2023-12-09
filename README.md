@@ -1,0 +1,1 @@
+# Click-aware XBlock
